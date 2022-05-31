@@ -1,1 +1,1 @@
-tsdiscon changes the current user to user betty
+mkdir -m 751 my_dir creates a directory called my_dir with permissions 751
