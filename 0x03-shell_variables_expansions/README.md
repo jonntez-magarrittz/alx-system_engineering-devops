@@ -1,1 +1,1 @@
-10-love_exponent_breath Displays the result of BREATH to the power LOVE
+5-localvariables - Creates a script that lists all local variables and environment variables, and functions
